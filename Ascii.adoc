@@ -4,7 +4,7 @@ John Doe <john.doe@example.com>
 :toc: left
 
 == Introduction
-This is a sample AsciiDoc document. It includes various elements like images, tables, and long text for testing purposes.
+This is a NN AsciiDoc document. It includes various elements like images, tables, and long text for testing purposes.
 
 == Images
 AsciiDoc makes it easy to include images in your document.
