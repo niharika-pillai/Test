@@ -1,0 +1,34 @@
+= Sample AsciiDoc Document
+John Doe <john.doe@example.com>
+:doctype: book
+:toc: left
+
+== Introduction
+This is a sample AsciiDoc document. It includes various elements like images, tables, and long text for testing purposes.
+
+== Images
+AsciiDoc makes it easy to include images in your document.
+
+image::https://asciidoctor.org/images/octocat.jpg[Octocat Image, 200, 200]
+
+== Tables
+Here is a table with multiple columns for testing:
+
+[cols="2,1,1,2,4", options="header,footer"]
+|===
+|Language |Speakers (millions) |Official Status |Script |Countries Where Spoken
+|Mandarin Chinese |918 |Official |Simplified Chinese, Traditional Chinese |China, Taiwan, Singapore
+|Spanish |480 |Official |Latin |Spain, Mexico, Colombia, Argentina, etc.
+|English |379 |Official |Latin |USA, UK, Canada, Australia, etc.
+|Hindi |341 |Official |Devanagari |India, Fiji
+|Arabic |319 |Official |Arabic script |Egypt, Saudi Arabia, Iraq, UAE, etc.
+|Portuguese |221 |Official |Latin |Portugal, Brazil, Angola, Mozambique, etc.
+|===
+
+== Long Text
+Here's an example of long text to test page rendering:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque imperdiet orci nec urna placerat, nec ultricies sapien laoreet. Proin tincidunt, sapien non bibendum fermentum, magna tortor vestibulum nibh, nec gravida lorem justo ac risus. Nulla facilisi. Integer volutpat, lorem a pretium gravida, risus ipsum luctus erat, ut sollicitudin libero lectus nec ante. Sed eget aliquet nisi. Integer auctor, nisi eu vehicula ultrices, augue neque faucibus libero, vitae vestibulum urna est id felis. Proin euismod, turpis eu consectetur dapibus, magna erat accumsan lectus, et gravida lacus urna quis felis. Donec a quam nec neque cursus bibendum.
+
+== Conclusion
+This document provides a comprehensive example of AsciiDoc features. Use it to test page rendering and content handling.
