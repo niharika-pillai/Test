@@ -1,4 +1,4 @@
-= Sample AsciiDoc Document
+= Niharika's AsciiDoc Document - updated
 John Doe <john.doe@example.com>
 :doctype: book
 :toc: left
